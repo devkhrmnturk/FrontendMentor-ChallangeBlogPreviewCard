@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/devkhrmnturk/card)
-- Live Site URL: (https://devkhrmnturk.github.io/card/)
+- Solution URL: (https://github.com/devkhrmnturk/cardd)
+- Live Site URL: (https://devkhrmnturk.github.io/cardd/)
 
 ### Built with
 
