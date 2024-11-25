@@ -1,8 +1,6 @@
 
 ### Links
-
-- Solution URL: (https://github.com/devkhrmnturk/cardd)
-- Live Site URL: (https://devkhrmnturk.github.io/cardd/)
+- Live Site URL: (https://devkhrmnturk.github.io/FrontendMentor-ChallangeBlogPreviewCard/)
 
 ### Built with
 
